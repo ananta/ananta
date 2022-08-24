@@ -1,6 +1,6 @@
-# Hello 💻🇳🇵
+# Hey there 💻🇳🇵
 
-Hi, I'm Ananta, a self-taught ‘developer’ with a college degree in ‘Software engineering’ 
+It's Ananta, currently pursuing MS in Computer Science @ Clemson University.
 
 Find me around the web 🌎:
 
