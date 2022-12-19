@@ -9,7 +9,7 @@
 </div>
 
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="70%">
 
 ## 👋 Hi, I Am Ananta 💻🇳🇵
 
@@ -18,7 +18,7 @@
 - Portfolio on <a href="https://www.linkedin.com/in/anantabastola/"> LinkedIn</a> 🤖
 - Videos @ <a href="https://www.youtube.com/channel/UC5IdMmsF91upbdP6BKLedrQ"> Youtube</a> 📺
  
-</td><td valign="top" width="100%">
+</td><td valign="top" width="30%">
 
 ## 🖥️  Stack
 
@@ -32,11 +32,11 @@
 </tr></tr></table> 
 
 
- <table><tr>
+<a href="https://twitter.com/FrancescoCiull4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FrancescoCiull4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+<a href="https://www.twitch.tv/francesco_ciulla">
+   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;
 
-## <a href="https://www.upwork.com/freelancers/~012dc6ff0297c51a40"><img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" title="Freelance Profile" alt="Upwork Profile" width="30"/> </a>Upwork Profile
- 
-</td></tr></table>
+
 
 <table><tr><td valign="top" width="70%">
 
@@ -55,4 +55,10 @@
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
+
+  <table><tr>
+
+## <a href="https://www.upwork.com/freelancers/~012dc6ff0297c51a40"><img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" title="Freelance Profile" alt="Upwork Profile" width="30"/> </a>Upwork Profile
+ 
+</tr></table>
 
