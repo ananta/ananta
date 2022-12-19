@@ -9,7 +9,7 @@
 </div>
 
 
-<table><tr><td valign="top" width="70%">
+<table><tr><td valign="top">
 
 ## 👋 Hi, I Am Ananta 💻🇳🇵
 
@@ -18,9 +18,9 @@
 - Portfolio on <a href="https://www.linkedin.com/in/anantabastola/"> LinkedIn</a> 🤖
 - Videos @ <a href="https://www.youtube.com/channel/UC5IdMmsF91upbdP6BKLedrQ"> Youtube</a> 📺
  
-</td><td valign="top" width="30%">
+</td><td valign="top" >
 
-## 🖥️  Stack
+## 🖥️  Current Tech Stack
 
 - React
 - Postgres 
@@ -29,7 +29,7 @@
 - GraphQL
 - Rust 
  
-</tr></tr></table> 
+</td></tr></table> 
 
 <table><tr><td valign="top" width="70%">
 
