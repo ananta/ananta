@@ -5,7 +5,7 @@
 &ensp;<a href="https://discordapp.com/users/ananta#2828"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
 &ensp;<a href="https://www.linkedin.com/in/anantabastola/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://www.instagram.com/ananta.bt"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-&ensp;<a href="https://dev.to/ananta"><img src="https://github.com/ananta/ananta/blob/main/dev.to-logo.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+&ensp;<a href="https://dev.to/ananta"><img src="https://github.com/ananta/ananta/blob/master/dev.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 </div>
 
 
@@ -31,13 +31,6 @@
  
 </tr></tr></table> 
 
-
-<a href="https://twitter.com/FrancescoCiull4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FrancescoCiull4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
-<a href="https://www.twitch.tv/francesco_ciulla">
-   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;
-
-
-
 <table><tr><td valign="top" width="70%">
 
 ## <a href="https://www.youtube.com/@xit"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
@@ -49,7 +42,7 @@
  
 </td><td valign="top" width="30%">
 
-## <a href="https://dev.to/ananta"><img src="https://github.com/ananta/ananta/blob/main/dev.to-logo.png" title="DEV" alt="DEV" width="25"/></a> Articles
+## <a href="https://dev.to/ananta"><img src="https://github.com/ananta/ananta/blob/master/dev.png" title="DEV" alt="DEV" width="25"/></a> Articles
  <!-- DEVTO-BLOG-LIST:START -->
 - [Types vs. Interfaces in Typescript](https://dev.to/ananta/types-vs-interfaces-in-typescript-1g3p)
 <!-- DEVTO-BLOG-LIST:END -->
