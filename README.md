@@ -31,27 +31,3 @@
  
 </td></tr></table> 
 
-<table><tr><td valign="top" width="70%">
-
-## <a href="https://www.youtube.com/@xit"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
- 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Undergraduate College Project I: Fullstack Mobile App](https://www.youtube.com/watch?v=yW7eBKQDRXU)
-- [Undergraduate College Project II: Hackerrank Clone](https://www.youtube.com/watch?v=TC3zW5LGkRI)
-<!-- YOUTUBE-VIDEOS-LIST:END --> 
- 
-</td><td valign="top" width="30%">
-
-## <a href="https://dev.to/ananta"><img src="https://github.com/ananta/ananta/blob/master/dev.png" title="DEV" alt="DEV" width="25"/></a> Articles
- <!-- DEVTO-BLOG-LIST:START -->
-- [Types vs. Interfaces in Typescript](https://dev.to/ananta/types-vs-interfaces-in-typescript-1g3p)
-<!-- DEVTO-BLOG-LIST:END -->
-
-</td></tr></table>
-
-  <table><tr>
-
-## <a href="https://www.upwork.com/freelancers/~012dc6ff0297c51a40"><img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" title="Freelance Profile" alt="Upwork Profile" width="30"/> </a>Upwork Profile
- 
-</tr></table>
-
