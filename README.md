@@ -7,27 +7,3 @@
 &ensp;<a href="https://www.instagram.com/ananta.bt"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
 &ensp;<a href="https://dev.to/ananta"><img src="https://github.com/ananta/ananta/blob/master/dev.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 </div>
-
-
-<table><tr><td valign="top">
-
-## 👋 Hi, I Am Ananta 💻🇳🇵
-
-- About @ <a href="http://anntz.com"> anntz.com</a> 👾
-- Write articles @ <a href="https://dev.to/ananta"> Dev.to</a> 📝
-- Portfolio on <a href="https://www.linkedin.com/in/anantabastola/"> LinkedIn</a> 🤖
-- Videos @ <a href="https://www.youtube.com/channel/UC5IdMmsF91upbdP6BKLedrQ"> Youtube</a> 📺
- 
-</td><td valign="top" >
-
-## 🖥️  Current Tech Stack
-
-- React
-- Postgres 
-- Node.js
-- Asp.net
-- GraphQL
-- Rust 
- 
-</td></tr></table> 
-
