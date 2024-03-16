@@ -3,6 +3,8 @@
 &ensp;<a href="https://www.linkedin.com/in/anantabastola/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 </div>
 
-### About me:
+Fourteen years ago, my coding journey began, leading me through numerous projects of varying sizes, complexities, and acclaim. 
 
-Fourteen years ago, my coding journey began, leading me through numerous projects of varying sizes, complexities, and acclaim.
+## 🎓 Education
+__Clemson University__: M.S. in Computer Science <br/>
+__G.C.E.S.__: B.E. in Software Engineering
